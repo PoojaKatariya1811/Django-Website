@@ -1,2 +1,4 @@
 # Django-Website
-A basic website with a database and register and login options
+
+A basic Django website for Login and Registration
+This website works on Object Relational Mapping technique. 
